@@ -1,0 +1,8 @@
+Need to debug the new distance check in auto.
+Check all motors and directions.
+Check index sensors and ball color sensor.
+Verify indexer functions.
+Verify shooter functions - need to add hysteresis to checks or something.
+Need to get auto set up to automatically select the team from the game data // Implemented - Test
+Add spinUpShooter to auto files along with values hrrrrrm how to do this.
+Test that we can run auto, then replace the robot, and enable and it will run again.

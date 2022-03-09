@@ -1,0 +1,2 @@
+Start Angle,Start X,Start Y,X,Y,Rotation (degrees),Max Velocity (m/s),Delay Time (seconds),"End Condition (0 Do Nothing,1 Drive To Point,2 Turn Angle,3 Delay, 4 Shoot 3 Balls, 5 Turret Angle)",No Slow,"Intake (1 Suck, 0 Do Nothing)","Shooter Spinup (1,0)","Shoot (1,0)"
+0,0,0,0,0,0,1,0,0,0,0,0,0

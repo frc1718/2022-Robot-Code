@@ -1,0 +1,10 @@
+open 10.17.18.2
+guest
+guest
+cd \tmp\
+mkdir auton
+cd \tmp\auton\
+prompt
+mdel *.*
+mput ".\auton files\*.pi"
+quit
