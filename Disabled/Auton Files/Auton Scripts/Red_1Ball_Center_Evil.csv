@@ -1,0 +1,9 @@
+Start Angle,Start X,Start Y,X,Y,Rotation (degrees),Max Velocity (%),Max Rotation (Percent),Delay Time (seconds),"End Condition (0 Do Nothing,1 Drive To Point,2 Turn Angle,3 Delay, 4 Shoot 3 Balls, 5 Turret Angle, 6 Shoot Balls, 7 Collect Balls)",No Slow,"Intake (1 Suck, 0 Do Nothing)","Shooter Spinup (1,0)","Shoot (1,0)",Balls to Shoot,Balls to Collect,Spit
+0,-2.3,0,-3.3,0,0,0.4,1,0,1,0,0,1,0,0,0,0
+0,0,0,-3.3,0,0,0.4,1,3,6,0,0,1,1,1,0,0
+0,0,0,-2.6,0,0,0.4,1,0,1,0,1,0,0,0,0,0
+0,0,0,-2.6,-0.8,0,0.4,1,0,1,0,1,0,0,0,0,0
+0,0,0,-3.3,-0.8,0,0.4,1,0,1,0,1,0,0,0,0,0
+0,0,0,-3.3,-0.8,0,0.4,1,3,7,0,1,0,0,0,1,0
+0,0,0,-5.3,0,45,0.4,1,0,1,0,0,0,0,0,0,0
+0,0,0,-5.3,0,45,0.4,1,5,3,0,0,0,0,0,0,1
